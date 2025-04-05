@@ -11,3 +11,15 @@
 # Installation :
 
 - npm i @suryaannadurai/binary_search
+
+# Demo :
+
+```js
+import binary from "@suryaannadurai/binary_search"
+
+console.log(binary([1,2,3] , 3)) // 2
+```
+
+
+
+

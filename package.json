@@ -1,14 +1,27 @@
 {
-  "name": "@suryaannadurai123/binary-search",
-  "version": "1.0.2",
+  "name": "@suryaannadurai/binary_search",
+  "version": "1.0.4",
   "main": "index.js",
-  "type" : "module",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surya-Annadurai-10/-suryaannadurai-binary_search"
+  },
   "scripts": {
-    "start" : "node index.js",
+    "start": "node index.js",
     "test": "node test.js"
   },
-  "keywords": ["binary" , "search" , "surya" , "annadurai" , "algorithm"],
+  "keywords": [
+    "binary",
+    "search",
+    "surya",
+    "annadurai",
+    "algorithm"
+  ],
   "author": "Surya Annadurai",
   "license": "ISC",
-  "description": "This is a package where u can get search's index position in a milliseconds. In this i have used Binary search algorithm to speed up the search process"
+  "description": "This is a package where u can get search's index position in a milliseconds. In this i have used Binary search algorithm to speed up the search process",
+  "dependencies": {
+    "@suryaannadurai/binary_search": "^1.0.3"
+  }
 }
