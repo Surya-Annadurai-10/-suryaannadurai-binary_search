@@ -1,0 +1,14 @@
+{
+  "name": "@suryaannadurai123/binary-search",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["binary" , "search" , "surya" , "annadurai" , "algorithm"],
+  "author": "Surya Annadurai",
+  "license": "ISC",
+  "description": "This is a package where u can get search's index position in a milliseconds. In this i have used Binary search algorithm to speed up the search process"
+}
